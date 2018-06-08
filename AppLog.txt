@@ -1,0 +1,108 @@
+[06.07.2106 00:31:22]
+Hook Started... Timer started
+
+[06.07.2106 00:35:59]
+Hook Started... Timer started
+
+[06.07.2106 00:38:53]
+Hook Started... Timer started
+
+[06.07.2106 00:48:32]
+Hook Started... Timer started
+
+[22.07.2106 23:16::3]
+Hook Started... Timer started
+
+[22.07.2106 23:20:57]
+Hook Started... Timer started
+
+[22.07.2106 23:24:31]
+Hook Started... Timer started
+
+[30.12.2106 20:20:20]
+Hook Started... Timer started
+
+[30.12.2106 20:21:28]
+Mail was not sent! Error code: 259
+
+[30.12.2106 20:21:28]
+<From SendMail> Return code: 0
+
+[30.12.2106 20:22::0]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:22:32]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:23::3]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:23:36]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:24::9]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:24:43]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:25:16]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:25:50]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:26:22]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:26:54]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:27:26]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:27:57]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:28:29]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:29::1]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:29:33]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:30::5]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:30:37]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:31::8]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:31:41]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:32:14]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:32:47]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:33:20]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:33:53]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:34:25]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:34:58]
+Mail was not sent! Error code: 0
+
+[30.12.2106 20:35:31]
+Mail was not sent! Error code: 0
+

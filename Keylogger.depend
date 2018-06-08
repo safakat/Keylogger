@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1467745186 source:c:\users\safakat\desktop\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1467362158 c:\users\safakat\desktop\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1467745275 c:\users\safakat\desktop\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1467362260 c:\users\safakat\desktop\keylogger\base64.h
+	<vector>
+	<string>
+
+1467382878 c:\users\safakat\desktop\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1467402005 c:\users\safakat\desktop\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1467745701 c:\users\safakat\desktop\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"Windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1467745015 c:\users\safakat\desktop\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1467745186 source:d:\hack\my creation\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1467362158 d:\hack\my creation\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1467745275 d:\hack\my creation\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1467362260 d:\hack\my creation\keylogger\base64.h
+	<vector>
+	<string>
+
+1467382878 d:\hack\my creation\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1467402005 d:\hack\my creation\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1469210320 d:\hack\my creation\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"Windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1469209825 d:\hack\my creation\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
